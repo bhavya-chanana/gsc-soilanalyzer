@@ -3,6 +3,7 @@
 ## Overview
 
 GSC Soil Analyzer is a web application developed for the Google Developers Solution Challenge 2024. It leverages advanced machine learning algorithms to analyze soil properties and provides personalized crop recommendations.
+[video demonstration](https://www.youtube.com/watch?v=3tznko79Zxw)
 
 ## Features
 
